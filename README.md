@@ -4,7 +4,7 @@
 This project demonstrates:
 - Ingesting multiple datasets and transforming them into one consolidated masterfile (see code [here](https://github.com/cjdeguzman95/Streaming-Services-Analysis/blob/main/Streaming%20Services/Code/streaming-services-project-data-cleaning.ipynb))
 - Creating a star schema data model (see code [here](https://github.com/cjdeguzman95/Streaming-Services-Analysis/blob/main/Streaming%20Services/Code/streaming-services-project-data-modelling.ipynb))
-- Creating a Power BI dashboard (work in progress)
+- Creating a Power BI dashboard (WORK IN PROGRESS)
 
 This project explores data from the top three streaming services (Netflix, Amazon Prime and Disney+)
 
