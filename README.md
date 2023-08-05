@@ -1,4 +1,4 @@
-# Streaming Services Analysis Project
+# Streaming Services Analysis
 #### <i>Technologies: Python (Pandas), Microsoft Power BI</i>
 
 This project demonstrates:
